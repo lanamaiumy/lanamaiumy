@@ -6,8 +6,8 @@
       Tenho uma leve obsessão por tecnologia e pela mágica de criar algo que funciona com algumas (ou muitas) linhas de código :)
       <br><br>
       <ul>
-        <li>👩🏻‍💻 Atualmente estou focada em aprimorar minhas habilidades em <strong>Desenvolvimento Full-stack</strong></li>
-        <li>🌱 Estou aprendendo mais a fundo sobre <strong>Ruby on Rails e Cibersegurança</strong></li>
+        <li>👩🏻‍💻 Focada em aprimorar minhas habilidades em <strong>Desenvolvimento Full-stack</strong></li>
+        <li>🌱 Estou aprendendo mais sobre <strong>Ruby on Rails e Cibersegurança</strong></li>
         <li>📫 Você pode me contatar através do email: <strong>alana.maiumy@gmail.com</strong></li>
       </ul>
     </td>
