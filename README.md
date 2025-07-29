@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="75%" valign="top">
-      Tenho uma leve obsessão por tecnologia e pela mágica de criar algo que funciona com algumas (ou muitas) linhas de código :)
+      Tenho uma leve obsessão por tecnologia e por criar algo que funciona com algumas (ou muitas) linhas de código :)
       <br><br>
       <ul>
         <li>👩🏻‍💻 Focada em aprimorar minhas habilidades em <strong>Desenvolvimento Full-stack</strong></li>
@@ -30,7 +30,6 @@
         <img src="https://img.shields.io/badge/Ruby_on_Rails-FF9494?style=for-the-badge&logo=rubyonrails&logoColor=353535">
         <img src="https://img.shields.io/badge/TypeScript-80DEEA?style=for-the-badge&logo=typescript&logoColor=353535">
         <img src="https://img.shields.io/badge/Angular-FF9494?style=for-the-badge&logo=angular&logoColor=353535">
-        <img src="https://img.shields.io/badge/Vue.js-A5D6A7?style=for-the-badge&logo=vue.js&logoColor=353535">
       </div>
     </td>
     <td width="33%" valign="top">
