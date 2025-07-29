@@ -7,7 +7,7 @@
       <br><br>
       <ul>
         <li>👩🏻‍💻 Focada em aprimorar minhas habilidades em <strong>Desenvolvimento Full-stack</strong></li>
-        <li>🌱 Estou aprendendo mais sobre <strong>Ruby on Rails e Cibersegurança</strong></li>
+        <li>🌱 Estou aprendendo mais sobre <strong>React Native e Cibersegurança</strong></li>
         <li>📫 Você pode me contatar através do email: <strong>alana.maiumy@gmail.com</strong></li>
       </ul>
     </td>
