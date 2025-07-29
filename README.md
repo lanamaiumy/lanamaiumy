@@ -39,7 +39,7 @@
     <td width="33%" valign="top">
       <h2 style="margin-bottom: 10px;">👩🏻‍💻 Portfólio</h2>
       <a href="https://portfolio-alana-maiumy.netlify.app/" target="_blank">
-        <img src="https://github.com/lanamaiumy/lanamaiumy/blob/main/image.png" alt="Pré-visualização do Portfólio" width="100%">
+        <img src="https://github.com/lanamaiumy/lanamaiumy/blob/main/imageport.jpeg" alt="pré-visualização" width="100%">
       </a>
     </td>
   </tr>
