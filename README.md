@@ -10,6 +10,15 @@
         <li>🌱 Estou aprendendo mais sobre <strong>React Native e N8N</strong></li>
         <li>📫 Você pode me contatar através do email: <strong>alana.maiumy@gmail.com</strong></li>
       </ul>
+      <h3 style="margin-top: 15px;">🚀 Tecnologias</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <img src="https://img.shields.io/badge/JavaScript-FFF59D?style=for-the-badge&logo=javascript&logoColor=353535">
+        <img src="https://img.shields.io/badge/TypeScript-80DEEA?style=for-the-badge&logo=typescript&logoColor=353535">
+        <img src="https://img.shields.io/badge/Angular-FF9494?style=for-the-badge&logo=angular&logoColor=353535">
+        <img src="https://img.shields.io/badge/Vue.js-a6d7a8?style=for-the-badge&logo=vue.js&logoColor=353535">
+        <img src="https://img.shields.io/badge/Laravel-ffb8a2?style=for-the-badge&logo=laravel&logoColor=353535">
+        <img src="https://img.shields.io/badge/PHP-d7a6df?style=for-the-badge&logo=php&logoColor=353535">
+      </div>
     </td>
     <td width="25%" valign="center">
       <img src="https://miro.medium.com/v2/resize:fit:500/1*QHHPIbdEoG6iXqy1U_YUQg.gif" alt="Gatinho programando" />
@@ -21,17 +30,6 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h2 style="margin-bottom: 10px;">🚀 Tecnologias</h2>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://img.shields.io/badge/JavaScript-FFF59D?style=for-the-badge&logo=javascript&logoColor=353535">
-        <img src="https://img.shields.io/badge/TypeScript-80DEEA?style=for-the-badge&logo=typescript&logoColor=353535">
-        <img src="https://img.shields.io/badge/Angular-FF9494?style=for-the-badge&logo=angular&logoColor=353535">
-        <img src="https://img.shields.io/badge/Vue.js-a6d7a8?style=for-the-badge&logo=vue.js&logoColor=353535">
-        <img src="https://img.shields.io/badge/Laravel-ffb8a2?style=for-the-badge&logo=laravel&logoColor=353535">
-        <img src="https://img.shields.io/badge/PHP-d7a6df?style=for-the-badge&logo=php&logoColor=353535">
-      </div>    
-    </td>
     <td width="33%" valign="top">
       <h2 style="margin-bottom: 10px;">👩🏻‍💻 Portfólio</h2>
       <a href="https://devlog-alanamaiumy.netlify.app/" target="_blank">
