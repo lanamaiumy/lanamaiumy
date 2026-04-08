@@ -7,7 +7,7 @@
       <br><br>
       <ul>
         <li>👩🏻‍💻 Focada em aprimorar minhas habilidades em <strong>Desenvolvimento Full-stack</strong></li>
-        <li>🌱 Estou aprendendo mais sobre <strong>React Native e Cibersegurança</strong></li>
+        <li>🌱 Estou aprendendo mais sobre <strong>React Native e N8N</strong></li>
         <li>📫 Você pode me contatar através do email: <strong>alana.maiumy@gmail.com</strong></li>
       </ul>
     </td>
@@ -24,22 +24,18 @@
     <td width="33%" valign="top">
       <h2 style="margin-bottom: 10px;">🚀 Tecnologias</h2>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://img.shields.io/badge/HTML5-FFAB91?style=for-the-badge&logo=html5&logoColor=353535">
-        <img src="https://img.shields.io/badge/CSS3-90CAF9?style=for-the-badge&logo=css&logoColor=353535">
         <img src="https://img.shields.io/badge/JavaScript-FFF59D?style=for-the-badge&logo=javascript&logoColor=353535">
-        <img src="https://img.shields.io/badge/Ruby_on_Rails-FF9494?style=for-the-badge&logo=rubyonrails&logoColor=353535">
         <img src="https://img.shields.io/badge/TypeScript-80DEEA?style=for-the-badge&logo=typescript&logoColor=353535">
         <img src="https://img.shields.io/badge/Angular-FF9494?style=for-the-badge&logo=angular&logoColor=353535">
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h2 style="margin-bottom: 10px;">📊 Estatísticas</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanamaiumy&layout=compact&langs_count=7&theme=custom&bg_color=1F222E&title_color=A5D6A7&text_color=FFF&border_color=A5D6A7" alt="Estatísticas de Linguagens">
+        <img src="https://img.shields.io/badge/Vue.js-a6d7a8?style=for-the-badge&logo=vue.js&logoColor=353535">
+        <img src="https://img.shields.io/badge/Laravel-ffb8a2?style=for-the-badge&logo=laravel&logoColor=353535">
+        <img src="https://img.shields.io/badge/PHP-d7a6df?style=for-the-badge&logo=php&logoColor=353535">
+      </div>    
     </td>
     <td width="33%" valign="top">
       <h2 style="margin-bottom: 10px;">👩🏻‍💻 Portfólio</h2>
       <a href="https://portfolio-alana-maiumy.netlify.app/" target="_blank">
-        <img src="https://github.com/lanamaiumy/lanamaiumy/blob/main/imageport.jpeg" alt="pré-visualização" width="100%">
+        <img src="https://github.com/lanamaiumy/lanamaiumy/blob/main/imgport.jpeg" alt="pré-visualização" width="100%">
       </a>
     </td>
   </tr>
