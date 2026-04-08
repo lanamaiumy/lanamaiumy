@@ -34,7 +34,7 @@
     </td>
     <td width="33%" valign="top">
       <h2 style="margin-bottom: 10px;">👩🏻‍💻 Portfólio</h2>
-      <a href="https://portfolio-alana-maiumy.netlify.app/" target="_blank">
+      <a href="https://devlog-alanamaiumy.netlify.app/" target="_blank">
         <img src="https://github.com/lanamaiumy/lanamaiumy/blob/main/imgport.jpeg" alt="pré-visualização" width="100%">
       </a>
     </td>
